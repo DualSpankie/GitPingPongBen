@@ -73,3 +73,4 @@ Plugins/*/Intermediate/*
 # Cache files for the editor to use
 DerivedDataCache/*
 MyPongGame/Content/Paks/MyPongGame-WindowsNoEditor.pak
+MyPongGame/Saved/StagedBuilds/WindowsNoEditor/MyPongGame/Content/Paks/MyPongGame-WindowsNoEditor.pak
